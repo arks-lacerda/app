@@ -33,3 +33,15 @@ Function
 ## Operadores
 
 Operadores de atribuição de valor.
+
+## Objetivos
+
+Atributos e métodos
+Criação e manipulação de objetos
+Acesso a propriedades de objetos
+
+### Functions
+
+- [x] criar, passar argumento
+- [x] executar
+- [x] arrow function / named function
